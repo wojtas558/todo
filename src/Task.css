@@ -9,6 +9,7 @@ input[type="range"]::-webkit-slider-thumb{
 } */
 .task{
   border-radius: 6px;
+  padding: 0.2rem 0;
   background-color: rgb(33, 37, 41);
 }
 .task:nth-child(even){

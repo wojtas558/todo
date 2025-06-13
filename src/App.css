@@ -8,7 +8,7 @@
 }
 .list{
   border: 1px solid steelblue;
-  border-radius: 10px;
+  border-radius: 15px;
   padding: 0.3rem 1rem;
   -webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10 and IE 11 */
